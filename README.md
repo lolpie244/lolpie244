@@ -2,7 +2,7 @@
 - I’m interested in back end 
 - I’m currently learning c++, c#, js, java...
 - I’m looking to collaborate in some small projects
-- How to reach me 
+- How to reach me - github messenges
 
 <!---
 lolpie244/lolpie244 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
