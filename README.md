@@ -1,5 +1,5 @@
 - Hi, I’m @lolpie244
-- I’m interested in back end 
+- I’m interested in Linux/OS developments; OpenGL and a piece of nvim
 - I’m currently learning c++, python, c#
 - I’m looking to collaborate in some small and interesting projects
 - How to reach me - email: `lolpie2651@gmail.com`
